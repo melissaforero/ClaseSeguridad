@@ -10,5 +10,9 @@ package inge;
  * @author Jhonatan B
  */
 public class ClaseJhonatan {
-    
+    public String mensaje (){
+        
+        return ("Hola todos");
+        
+    }
 }
